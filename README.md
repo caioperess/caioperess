@@ -1,5 +1,7 @@
 ## 👋 &nbsp;Hey there!
 
+![](https://komarev.com/ghpvc/?username=caioperess&color=blue)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
