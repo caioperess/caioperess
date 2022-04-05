@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science on UNIVEM.\
-🚀 &nbsp;Bootcamp student for FULLSTACK.
+🚀 &nbsp;Advancing to the next level.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/caioperess/caioperess/master/assets/Night-Coding.gif" align="right"/>
 <br>
