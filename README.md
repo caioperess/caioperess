@@ -38,5 +38,5 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/caioperess/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:caioperescs@gmail.com"><img src="https://img.shields.io/badge/-caioperescs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:caioperescs@outlook.com"><img src="https://img.shields.io/badge/-caioperescs@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
